@@ -1,2 +1,3 @@
 # Branch-and-Bound
-Projet de Recherche opérationelle sur l'implémentation d'un algorithme de Branch And Bound pour un problème d'ordonnancement.
+Branch and bound algorithm implementation
+By Tino Margely and Nathan Lainé - done in 4th year of Applied Mathematics @ INSA Rennes
